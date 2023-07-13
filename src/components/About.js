@@ -17,7 +17,7 @@ const About = () => {
                   <p>Hi. I'm Afreen Syed, nice to meet you. Please take a look around.</p>
                 </div>
                 <div>
-                  <p>As a beginner frontend developer, I'm passionate about creating engaging web experiences. With a strong foundation in HTML, CSS, and JavaScript, I strive to build intuitive and user-friendly websites. I'm open to collaboration and constantly learning to improve my skills. Let's create something amazing together!</p>  
+                  <p>As a frontend developer, I'm passionate about creating engaging web experiences. With a strong foundation in HTML, CSS, and JavaScript, I strive to build intuitive and user-friendly websites. I'm open to collaboration and constantly learning to improve my skills. Let's create something amazing together!</p>  
                 </div>
             </div>
           </div>

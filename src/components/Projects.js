@@ -23,9 +23,10 @@ return (
         {project.map((item, index) => (
 <div
   key={index}
-  style={{ backgroundImage: `url(${item.image})` }}
+  style={{ backgroundImage: `url(${item.image})`, backgroundSize: 'cover',
+  backgroundPosition: 'center', }}
   className="shadow-lg shadow-[#040c16] group container rounded-md 
-            flex justify-center text-center items-center mx-auto content-div "
+            flex justify-center text-center items-center mx-auto content-div p-3 w-96 h-48"
 >
   {/* Hover effect for images */}
   <div className="opacity-0 group-hover:opacity-100 ">

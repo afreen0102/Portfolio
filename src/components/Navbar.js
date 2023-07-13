@@ -109,12 +109,12 @@ const Navbar = () => {
                 </a>
             </li>
             <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#00acee]'>
-                <a href="/" className='flex justify-between items-center w-full text-gray-300'>
+                <a href="https://twitter.com/pocco_loco" className='flex justify-between items-center w-full text-gray-300'>
                     Twitter <FaTwitter size={30}/>
                 </a>
             </li>
             <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
-                <a href="/" className='flex justify-between items-center w-full text-gray-300'>
+                <a href="https://docs.google.com/document/d/140LPVMuFNI_2PNZkJy7fFZlsNdxNDL38IrLbhbSZKIc/edit" className='flex justify-between items-center w-full text-gray-300'>
                     Resume <BsFillPersonLinesFill size={30}/>
                 </a>
             </li>

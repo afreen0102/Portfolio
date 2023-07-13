@@ -1,35 +1,14 @@
 // import WorkIm from '../assets/projects/workImg.jpeg'
 // import RealEst from '../assets/projects/realestate.jpg'
+import worldwise from '../assets/worldwise.png'
 
 export const data=[
     {
         id:1,
-        name:"React JS Application",
-        image:"",
-        github:"",
-        live:"",
+        name:"WorldWise",
+        image: worldwise,
+        github:"https://github.com/afreen0102/Worldwide",
+        live:""
     },
-    {
-        id:2,
-        name:"React JS Application",
-        image:"",
-        github:"",
-        live:"",
-    },
-    {
-        id:3,
-        name:"React JS Application",
-        image:"",
-        github:"",
-        live:"",
-    },
-    {
-        id:4,
-        name:"React JS Application",
-        image:"",
-        github:"",
-        live:"",
-    },
-
-
+    
 ]
