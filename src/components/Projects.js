@@ -31,6 +31,7 @@ const Work = () => {
              className="shadow-lg shadow-[#040c16] group rounded-md
               flex justify-center text-center items-center mx-auto content-div bg-cover group-hover:bg-black container p-7"
             >
+              
     {/* Hover effect for images */}
     <div className="opacity-0 group-hover:opacity-100">
       <span className="text-2xl font-bold text-[#0a192f] tracking-wider">
